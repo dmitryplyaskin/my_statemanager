@@ -1,0 +1,15 @@
+{
+  "name": "my_statemanager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dmitryplyaskin/my_statemanager.git",
+  "author": "My name is Dmitry <dima28rus97@gmail.com>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
